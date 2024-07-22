@@ -62,7 +62,7 @@ position: absolute;
 height: 100px;
 width: 35px;
 bottom: 0;
-background: url(../assets/img/tree.svg) no-repeat;
+background: url(assets/img/tree.svg) no-repeat;
 }
 .rock{
   margin-top: -17%;
@@ -92,12 +92,12 @@ background: url(../assets/img/tree.svg) no-repeat;
   ;
 }
 .truck{
-  background: url(../assets/img/truck.svg) no-repeat;
+  background: url(assets/img/truck.svg) no-repeat;
   background-size: contain;
   height: 60px;
 }
 .wheels{
-  background: url(../assets/img/wheels.svg);
+  background: url(assets/img/wheels.svg);
   height: 15px;
 }
 .tree{
